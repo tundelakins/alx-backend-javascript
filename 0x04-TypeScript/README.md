@@ -13,7 +13,7 @@ This project contains tasks for learning to use TypeScript.
   + Every variable should use TypeScript when possible.
 
 + [x] 1. **Let's build a Teacher interface**<br/>[task_1/js/main.ts](task_1/js/main.ts) contains a script that meets the following requirements:
-  + `firstName(string)` and `lastName(string)`. These two attributes should only be modifiable when a Teacher is first initialized.
+  + firstName(string)` and `lastName(string)`. These two attributes should only be modifiable when a Teacher is first initialized.
   + `fullTimeEmployee(boolean)` this attribute should always be defined.
   + `yearsOfExperience(number)` this attribute is optional.
   + `location(string)` this attribute should always be defined.
